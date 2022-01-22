@@ -1,3 +1,13 @@
+
+## Web Hosting
+This website is available and hosted with:
+  *GitHub Pages* at `https://swahomeh.github.io/restaurant-landing-page/page/`
+  AWS S3 at ``
+
+
+##
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/swahomeh/restaurant-landing-page-gulp/edit/landing-page/README.md) to maintain and preview the content for your website in Markdown files.

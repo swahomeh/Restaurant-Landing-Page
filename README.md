@@ -1,8 +1,8 @@
 
 ## Web Hosting
 This website is available and hosted with:
-  * GitHub Pages at: [Click Here](https://swahomeh.github.io/restaurant-landing-page/page/)
-  * AWS S3 at: [Click Here]
+  * GitHub Pages at: [Click Here](https://swahomeh.github.io/Restaurant-Landing-Page/page/)
+  * AWS S3 at:
 
 
 ##
